@@ -4,7 +4,6 @@ node_modules/
 .DS_Store?
 pids/
 log/
-nextday.sublime-workspace
 npm-debug.log
 *.map
 *.js
