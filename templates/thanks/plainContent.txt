@@ -1,0 +1,8 @@
+#{start}
+
+#{content}
+
+#{regards}
+
+---
+©2013 Next Experience Interactive

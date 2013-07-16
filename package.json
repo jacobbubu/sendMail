@@ -1,0 +1,27 @@
+{
+  "author": "rong.shen@nxmix.com", 
+  "dependencies": {
+    "nodemailer": "x",
+    "prompt": "x",
+    "colors": "x",
+    "jade": "x",
+    "wordwrap": "x"
+  }, 
+  "description": "", 
+  "devDependencies": {
+  }, 
+  "engines": {
+    "node": ">=0.8.0"
+  }, 
+  "homepage": "", 
+  "keywords": "", 
+  "main": "app.js", 
+  "name": "sendEDM", 
+  "repository": {
+    "type": "", 
+    "url": ""
+  }, 
+  "scripts": {
+  }, 
+  "version": "0.1.1"
+}
