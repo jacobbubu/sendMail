@@ -2,9 +2,9 @@ node_modules/
 .git
 .DS_Store
 .DS_Store?
-pids/
 log/
 npm-debug.log
 *.map
 *.js
-materials/
+sendMail.sublime-project
+sendMail.sublime-workspace
