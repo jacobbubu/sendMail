@@ -12,7 +12,7 @@ schema =
   properties:
     email:
       description: 'Gmail account'
-      default: 'judy.shi@nxmix.com'
+      default: 'master@nextday.im'
       required: true
     password:
       required: true
@@ -20,7 +20,7 @@ schema =
       description: 'Password'
       message: 'Password MUST be provided'
     contributor:
-      description: "Contributor's name"      
+      description: "Contributor's name"
       required: true
     numberOfPhotos:
       description: "Number of Photos"
@@ -31,7 +31,7 @@ schema =
       message: 'MUST have email address'
       required: true
 
-confirmSchema = 
+confirmSchema =
   properties:
     confirm:
       description: 'ARE U SURE U WANT TO SEND IT? (y/n)'
@@ -56,7 +56,7 @@ startOver = ->
   		     user: res.email
   		     pass: res.password
 
-  		opt = 
+  		opt =
         contributor: res.contributor
         numberOfPhotos: res.numberOfPhotos
 
